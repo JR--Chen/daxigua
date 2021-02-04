@@ -35,10 +35,10 @@ let fruitSlowDown = false;
 let clickChangeFruit = false;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
-let adLink = 'res/0.png';
+let adLink = 'res/WechatIMG483.png';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
-document.getElementsByTagName("title")[0].innerText = '合成大西瓜';
+document.getElementsByTagName("title")[0].innerText = '合成黑科大';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
